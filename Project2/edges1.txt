@@ -1,0 +1,14 @@
+Oregon,31,Florida State,25
+Mississippi State,29,Arkansas,17
+Mississippi State,31,Texas A&M,25
+UCLA,62,Arizona State,27
+Florida State,22,Arkansas,17
+Arizona State,12,Oregon,9
+New Mexico,14,Arkansas,10
+Texas A&M,32,New Mexico,12
+Arizona State,43,Florida State,14
+Arizona State,58,New Mexico,23
+Oregon,25,UCLA,13
+Oregon,18,Washington State,15
+Washington State,28,Utah,27
+Utah,39,Florida State,15

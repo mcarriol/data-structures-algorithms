@@ -1,0 +1,9 @@
+graph,0,10
+print_graph
+depth_first_search
+end_graph
+graph,2,25
+print_graph
+depth_first_search
+end_graph
+quit
